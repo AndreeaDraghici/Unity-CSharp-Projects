@@ -6,7 +6,7 @@ Roll a ball: https://learn.unity.com/project/roll-a-ball
 TASK:
 
 
-Ehe game must be created according to the steps in the link above.
+The game must be created according to the steps in the link above.
 Each student must make at least 2 changes to the game at the end.
 
 
