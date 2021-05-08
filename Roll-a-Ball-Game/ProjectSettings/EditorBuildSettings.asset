@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Template/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: 06832ddbd3d397b45be0dd20ce0d980e
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 2a9382dbef4388448a7e50ec9f2a1902
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: e45c2fbd050d0be4daf0212a9f0620fc
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 10a0fc3b624b3404e94a425c6357e2c2,
+      type: 2}
