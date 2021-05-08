@@ -21,3 +21,6 @@ I also added a script for obstacles(enemy) so that they move and if the player t
 At the end I added a new scene which is made from a portal so that when the ball enters the portal then the game ends and the player wins.
 
 NOTE: The changes made are added to the project scripts, the rest of the game is only technically assembled according to the steps in the link.
+
+
+NOTE X2: READ THE DOCUMENTATION -> Documentation
