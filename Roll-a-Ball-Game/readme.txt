@@ -23,4 +23,4 @@ At the end I added a new scene which is made from a portal so that when the ball
 NOTE: The changes made are added to the project scripts, the rest of the game is only technically assembled according to the steps in the link.
 
 
-NOTE X2: READ THE DOCUMENTATION -> Documentation
+NOTE X2: READ THE DOCUMENTATION -> Documentation-RollABall
