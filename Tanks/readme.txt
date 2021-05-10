@@ -15,3 +15,13 @@ The game must be created according to the steps in the link above.
 Each student must make at least 2 changes to the game at the end.
 
 
+My changes:
+
+
+I added a menu for play and exit.
+I added several objects and 2 scripts, when collecting one of the items increases his health, or speed.
+I changed the texture of the houses in the game.
+I added more materials to the game (houses, trees, etc.).
+
+NOTE: The changes made are added to the project scripts, the rest of the game is only technically assembled according to the steps in the link.
+
